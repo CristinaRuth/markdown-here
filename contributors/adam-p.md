@@ -7,3 +7,5 @@ I furthermore declare that I am authorized and able to make this agreement and s
 Signed,
 
 Adam Pritchard https://github.com/adam-p
+
+Test comment.
